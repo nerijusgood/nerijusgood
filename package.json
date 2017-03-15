@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "md-colors": "^1.0.0",
+    "normalize.css": "^5.0.0",
     "preact": "^7.2.0",
     "preact-router": "^2.4.1"
   },

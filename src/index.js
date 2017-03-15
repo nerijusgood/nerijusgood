@@ -1,5 +1,5 @@
 import { render } from 'preact';
-import './index.sass';
+import './index.scss';
 
 let elem, App;
 function init() {
