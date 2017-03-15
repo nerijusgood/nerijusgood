@@ -1,13 +1,13 @@
 {
   "private": true,
-  "name": "preact-starter",
+  "name": "nerijusgood",
   "version": "1.1.1",
   "license": "MIT",
   "repository": "lukeed/preact-starter",
   "author": {
-    "name": "Luke Edwards",
-    "email": "luke.edwards05@gmail.com",
-    "url": "https://lukeed.com"
+    "name": "Nerijus Gudas",
+    "email": "nerijusgood@gmail.com",
+    "url": "http://nerijusgood.com"
   },
   "scripts": {
     "build": "webpack --env.production --config config/webpack",
