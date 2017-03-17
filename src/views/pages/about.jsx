@@ -35,8 +35,8 @@ export default function (props) {
 	return (
 		<div className="page page__credit">
 			<Card>
-				<h1>Credits:</h1>
-				<p>Resources used within boilerplate:</p>
+				<h1>About</h1>
+				<p>Bio, resume, etc.</p>
 			</Card>
 
 			<nav>

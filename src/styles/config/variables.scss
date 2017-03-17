@@ -1,13 +1,27 @@
-/**
- * Reusable values
- */
+/* Vars
+----------------------------------------------------------------------------- */
+$colorWhite: #fff;
+$colorBlack: #000;
+$colorBG: #f7f7f7;
 
-$white: #FFF;
-$black: #000;
+$colorGray: #333333;
+$colorGrayDark: #7c7c7c;
+$colorLightGray: #e2e2e2;
+$colorGreen: #9bcbc7;
+$colorRed: #da5441;
 
-$purple: red;
+/* Heigths */
+$navbarMobile: 80px;
+$navbarHeight: 220px;
 
-$primary: $purple;
+/* Z-Index */
+$zSm: 1;
+$zMd: 5;
+$zLg: 99;
 
-$base-unit: 8px;
-$base-spacing: 2 * $base-unit;
+/* Breakpoints */
+$sm: 400px;
+$mds: 600px;
+$md: 768px;
+$lg: 1024px;
+$xl: 1280px;
