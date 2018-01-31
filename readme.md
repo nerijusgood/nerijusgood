@@ -1,4 +1,4 @@
-# preact-starter
+# Starts
 
 > Webpack2 boilerplate for building SPA / PWA / offline front-end apps with :atom_symbol: [Preact](https://github.com/developit/preact)
 
